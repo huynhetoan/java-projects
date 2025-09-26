@@ -1,0 +1,24 @@
+F Mahmut Unan unan CS 4
+F John Johnstone jkj CS 3
+F Jessica Hendricks jhend Math 2
+S Jane Smith jsmith Junior Math 3.68
+S John Doe jdoe Sophomore CS 4.0
+S Sarah Vega sarahv Senior Biology 3.87
+S Mary Walker mwalkerr3 Freshman CS 4.0
+O Angie Boyer angboyer Secretary Math
+O Rick Stein rickstein Admin Biology
+O Nelson Miles nmiles3 Registrar CS
+A Lisa James jlisa2 Math Graduate
+A Anthony Shannon ashan27 Biology Undergraduate
+A Rebecca Pendergrass rebecca25 CS Graduate
+I Courtney Terrell terrellc Developer
+I Stanley Harvell stanley52 Networking
+I Susan Stack susanstack Developer
+M Michael Brown mbrown Cardiologist Cardiology
+M John Johnson jjohnson Surgeon Orthopedics
+M Sandra White swhite Neurologist Neurology
+M Robert Green rgreen Surgeon Cardiovascular
+M Olivia Hall ohall Nurse Anesthesia Yes
+M Daniel Clark dclark Nurse Oncology No
+M Emily Davis edavis Nurse Pediatrics Yes
+M Maria Garcia mgarcia Nurse Pediatrics No
